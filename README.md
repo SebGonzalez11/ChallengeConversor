@@ -3,8 +3,8 @@
 
 Este es un código en el cual podrás hacer conversiones de monedas y temperatura (por el momento :D )
 
-- En la clase Input.class podrás encontrar el codigo donde se encuentran todas las funciones de entrada de valores y elecciones de conversion
-- En cambio, la clase Acciones.class podrás encontrar el codigo donde se encuentran todos los valores de conversion, funciones que son implementadas a través de objetos en Input.class
+- En la clase Input.java podrás encontrar el codigo donde se encuentran todas las funciones de entrada de valores y elecciones de conversion
+- En cambio, la clase Acciones.java podrás encontrar el codigo donde se encuentran todos los valores de conversion, funciones que son implementadas a través de objetos en Input.class
 
 Al iniciar el programa te encontrarás dos opciones:
 - Monedas
